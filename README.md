@@ -6,7 +6,9 @@
 
 
 ### Screenshots
-   <img src="Screenshots/image1.png" height="300em" />                                             <img src="Screenshots/image2.png" height="300em" />                                             <img src="Screenshots/image3.png" height="300em" />
+   <img src="Screenshots/image1.png" height="300em" />
+   <img src="Screenshots/image1r.png" height="300em" />  
+   <img src="Screenshots/image2.png" height="300em" />
 
 
 
